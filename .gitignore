@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+
+# Environments
+.env
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+test_output/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local files
+.DS_Store
+Thumbs.db
+
+# Output directory
+output/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Documentation
+docs/_build/
+site/
+
+# Packaging
+*.whl
+*.tar.gz
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Machine
+.vm/
